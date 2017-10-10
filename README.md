@@ -1,4 +1,4 @@
-# Improved Wasserstein GAN application on MRI dataset
+# Improved Wasserstein GAN (WGAN-GP) application on MRI dataset
 
 Application of a deep generative model on MRI images of knees. The MRI database used was provided by Imperial College London, however similar databases can be found on the OAI website (http://www.oai.ucsf.edu/), an observational study dedicated to monitor the natural evolution of osteoarthritis.
 
