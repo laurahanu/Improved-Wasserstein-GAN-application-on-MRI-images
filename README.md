@@ -1,11 +1,19 @@
 # Improved Wasserstein GAN (WGAN-GP) application on MRI dataset
 
 Application of a deep generative model on MRI images of knees. The MRI database used was provided by Imperial College London, however similar databases can be found on the OAI website (http://www.oai.ucsf.edu/), an observational study dedicated to monitor the natural evolution of osteoarthritis.
-
+The dataset used in this project was comprised of 28800 2D black&white MRI images of size 64x64.
 # Prerequisites
 - Python, Lasagne (developer version), Theano (developer version), Numpy, Matplotlib, scikit-image
 - NVIDIA GPU (5.0 or above)
 # Results
+
+The hyperparameters used were:
+- a learning rate of 0.0005
+- a decay rate of 0.5
+- a batch size of 128 images
+- a z space of 200
+
+
 - **Examples of real images from the input dataset** 
 <img src="results/ground_truthgan.png" alt="alt text" width="600" height="600">
 
