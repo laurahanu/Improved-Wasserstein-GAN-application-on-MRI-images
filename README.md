@@ -12,7 +12,7 @@ Application of a deep generative model on MRI images of knees. The MRI database 
 - **Examples of generated images 4500 iterations**
 <img src="results/examples_34gen.png" alt="alt text" width="600" height="600">
 
-- **Evolution of generated images at various iterations (total of 35 epochs - around 4500 iterations)**
+- **Evolution of generated images at various iterations (total of 35 epochs - around 7800 iterations)**
 <img src="results/evolution.png" alt="alt text" width="600" height="400">
 
 # License
