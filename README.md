@@ -13,6 +13,7 @@ The hyperparameters used were:
 - a batch size of 128 images
 - a z space of 200
 
+The network was trained using 35 epochs (~7800 iterations)
 
 - **Examples of real images from the input dataset** 
 <img src="results/ground_truthgan.png" alt="alt text" width="600" height="600">
