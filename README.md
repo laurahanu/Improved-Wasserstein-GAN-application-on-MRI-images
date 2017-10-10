@@ -9,7 +9,7 @@ Application of a deep generative model on MRI images of knees. The MRI database 
 - **Examples of real images from the input dataset** 
 <img src="results/ground_truthgan.png" alt="alt text" width="600" height="600">
 
-- **Examples of generated images 4500 iterations**
+- **Examples of generated images 7800 iterations**
 <img src="results/examples_34gen.png" alt="alt text" width="600" height="600">
 
 - **Evolution of generated images at various iterations (total of 35 epochs - around 7800 iterations)**
